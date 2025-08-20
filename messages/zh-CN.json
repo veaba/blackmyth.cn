@@ -1,0 +1,11 @@
+{
+  "Global.metadata.title": "黑神话",
+  "Global.metadata.description": "一个黑神话宇宙观网站",
+  "Global.notFound.goBackLink": "返回主页",
+  "Global.notFound.title": "未找到",
+  "Global.notFound.description": "您查找的页面不存在。",
+  "Global.error.goBackLink": "重试",
+  "Global.globalError.title": "出错了！",
+  "Global.globalError.moreDetails": "更多详情",
+  "Global.globalError.tryAgainButton": "重试"
+}

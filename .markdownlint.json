@@ -1,0 +1,14 @@
+{
+  "MD033": {
+    "allowed_elements": [
+      "a",
+      "p"
+    ]
+  },
+  "MD013": {
+    "line_length": 250
+  },
+  "MD024":{
+    "siblings_only": true
+  }
+}

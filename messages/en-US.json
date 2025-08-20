@@ -1,0 +1,11 @@
+{
+  "Global.metadata.title": "Black Myth",
+  "Global.metadata.description": "A website about the Black Myth universe",
+  "Global.notFound.goBackLink": "Go back home",
+  "Global.notFound.title": "Not found",
+  "Global.notFound.description": "The page you were looking for does not exist.",
+  "Global.error.goBackLink": "Try again",
+  "Global.globalError.title": "Something went wrong!",
+  "Global.globalError.moreDetails": "More details",
+  "Global.globalError.tryAgainButton": "Try again"
+}
