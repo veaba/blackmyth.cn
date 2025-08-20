@@ -144,7 +144,6 @@ export const calculateCartTotalNetWithoutShipping = (cart: {
   );
 };
 
-type Money = { amount: number; currency: string };
 
 export function invariant(condition: unknown, message: string): asserts condition {
   if (!condition) {

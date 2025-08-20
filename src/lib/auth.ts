@@ -84,7 +84,7 @@ export async function auth() {
   return data;
 }
 
-export async function updateSession() {
+export async function updateSession(request?: unknown) {
   const session = (await cookies()).get("session")?.value;
   if (!session) return;
 
