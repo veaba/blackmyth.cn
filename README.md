@@ -7,11 +7,12 @@ A website about the Black Myth universe.
 ## Features
 
 - i18n
+- audio play keywords
 
 ## Roadmap
 
-- `BlackMyth:wukong`(Chinese: 黑神话：悟空)
-- `BlackMyth:zhongkui`(Chinese: 黑神话：钟馗)
+- `BlackMyth:wukong`(Chinese: `黑神话：悟空`)
+- `BlackMyth:zhongkui`(Chinese: `黑神话：钟馗`)
 
 ## About License
 
@@ -21,6 +22,6 @@ This [blackmyth.cn](blackmyth.cn) domain is belong to me, is you want to use it,
 
 | Social Media     | Contact                                        | Remark       |
 |------------------|------------------------------------------------|--------------|
-| Weibo            | (`黑神话`)[https://weibo.com/u/7483050868]        | Game Science |
+| Weibo            | [`黑神话`](https://weibo.com/u/7483050868)        | Game Science |
 | Official Website | [BlackMyth:zhongkui](www.gamesci.cn/zhongkui)  | Game Science |
 | Official Website | [BlackMyth:wukong](https://gamesci.cn/wukong/) | Game Science |
